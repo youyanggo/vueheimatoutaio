@@ -1,4 +1,4 @@
-name: build and deploy
+name: main
 
 # 当 master 分支 push 代码的时候触发 workflow
 on:
